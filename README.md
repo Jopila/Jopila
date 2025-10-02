@@ -20,7 +20,7 @@ Olá! Sou desenvolvedor web em transição para full-stack. Concluí a trilha **
 - **Biblioteca Triple Peaks** — <https://github.com/Jopila/web_project_library_pt>
 
 ## 📫 Contato
-- LinkedIn: [*adicione aqui seu link curto do LinkedIn*](https://www.linkedin.com/in/marcelo-marangoni/)  
+- LinkedIn: https://www.linkedin.com/in/marcelo-marangoni/
 - Portfólio/GitHub: <https://github.com/Jopila>
 
 ---
