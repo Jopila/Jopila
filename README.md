@@ -12,7 +12,7 @@ Busco contribuir na construção de interfaces e aplicações **acessíveis, per
 ## 🛠️ Stack
 
 **Linguagens / Marcação**  
-JavaScript (ES6+), HTML5, CSS3 :contentReference[oaicite:2]{index=2}  
+JavaScript (ES6+), HTML5, CSS3
 
 **Front-end**  
 React, React Router, Hooks, Context API, responsividade (Flexbox/Grid), HTML semântico, acessibilidade básica
