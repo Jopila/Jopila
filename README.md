@@ -15,16 +15,16 @@ Busco contribuir na construção de interfaces e aplicações **acessíveis, per
 JavaScript (ES6+), HTML5, CSS3 :contentReference[oaicite:2]{index=2}  
 
 **Front-end**  
-React, React Router, Hooks, Context API, responsividade (Flexbox/Grid), HTML semântico, acessibilidade básica :contentReference[oaicite:3]{index=3}  
+React, React Router, Hooks, Context API, responsividade (Flexbox/Grid), HTML semântico, acessibilidade básica
 
 **Back-end / APIs**  
-Node.js, Express.js, REST APIs, integração com MongoDB (Mongoose), autenticação e autorização (JWT, bcrypt, validação com Joi/Celebrate) :contentReference[oaicite:4]{index=4}  
+Node.js, Express.js, REST APIs, integração com MongoDB (Mongoose), autenticação e autorização (JWT, bcrypt, validação com Joi/Celebrate) 
 
 **Boas práticas**  
-Componentização, organização de tarefas, código limpo, documentação :contentReference[oaicite:5]{index=5}  
+Componentização, organização de tarefas, código limpo, documentação
 
 **Ferramentas**  
-Git, GitHub, npm, Webpack, Vite, Figma (leitura) :contentReference[oaicite:6]{index=6}  
+Git, GitHub, npm, Webpack, Vite, Figma (leitura)
 
 
 ## 🚀 Projetos em destaque
