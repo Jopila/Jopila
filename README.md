@@ -1,15 +1,31 @@
-# Marcelo Marangoni — Dev Web (Front-end → Full-Stack)
+# Marcelo Araujo Marangoni — Desenvolvedor Fullstack
 
-Olá! Sou desenvolvedor web em transição para full-stack. Concluí a trilha **Front-end** do bootcamp (SPA com React, JavaScript ES6+, HTML/CSS responsivo) e agora avanço no **Back-end** (Sprints 15–18), estudando **Node.js** e **Express.js**. Meu foco é escrever código limpo, bem estruturado e versionado com Git, transformando requisitos em produtos simples e úteis.
+Olá! Sou **Desenvolvedor Fullstack (Júnior)** formado pelo bootcamp **TripleTen – Desenvolvimento Web Fullstack**. Atuei em projetos práticos cobrindo front-end e back-end, com foco em **JavaScript (ES6+), HTML5, CSS3, React, Node.js, Express e MongoDB**, além de consumo de **APIs REST**. Tenho experiência com versionamento usando **Git/GitHub**, organização de tarefas e boas práticas de código limpo. :contentReference[oaicite:1]{index=1}  
+
+Busco contribuir na construção de interfaces e aplicações **acessíveis, performáticas e fáceis de manter**, em equipes que valorizem revisão de código, aprendizado contínuo e boa comunicação.
+
 
 - 🎯 Busco oportunidades **Júnior** em **Front-end (React)** ou **Full-stack (React + Node.js)**.
 - 📚 Em progresso: Node.js, Express.js e MongoDB.
 - 🧩 Interesses: boas práticas, acessibilidade, semântica, testes e documentação.
 
-## 🔧 Stack
-**Utilizo:** React, JavaScript (ES6+), React Router, Context API, HTML, CSS (layout responsivo), Git  
-  Node.js, Express.js, REST  
-  MongoDB
+## 🛠️ Stack
+
+**Linguagens / Marcação**  
+JavaScript (ES6+), HTML5, CSS3 :contentReference[oaicite:2]{index=2}  
+
+**Front-end**  
+React, React Router, Hooks, Context API, responsividade (Flexbox/Grid), HTML semântico, acessibilidade básica :contentReference[oaicite:3]{index=3}  
+
+**Back-end / APIs**  
+Node.js, Express.js, REST APIs, integração com MongoDB (Mongoose), autenticação e autorização (JWT, bcrypt, validação com Joi/Celebrate) :contentReference[oaicite:4]{index=4}  
+
+**Boas práticas**  
+Componentização, organização de tarefas, código limpo, documentação :contentReference[oaicite:5]{index=5}  
+
+**Ferramentas**  
+Git, GitHub, npm, Webpack, Vite, Figma (leitura) :contentReference[oaicite:6]{index=6}  
+
 
 ## 🚀 Projetos em destaque
 > Veja os READMEs e demos nos próprios repositórios.
