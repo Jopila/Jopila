@@ -6,7 +6,7 @@ Busco contribuir na construção de interfaces e aplicações **acessíveis, per
 
 
 - 🎯 Busco oportunidades **Júnior** em **Front-end (React)** ou **Full-stack (React + Node.js)**.
-- 📚 Em progresso: Node.js, Express.js e MongoDB.
+- 📚 Node.js, Express.js e MongoDB.
 - 🧩 Interesses: boas práticas, acessibilidade, semântica, testes e documentação.
 
 ## 🛠️ Stack
